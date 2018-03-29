@@ -1,2 +1,2 @@
 # testone
-some resuits during learning process
+some results during learning process
